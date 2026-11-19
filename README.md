@@ -20,9 +20,8 @@ Place mods in the following folder:
 
 `C:\Users\%USER%\AppData\LocalLow\OramiX\XMod\Mods`
 
-> **Note:** These folders are hidden by default.
-> On Linux, press `Ctrl + H` to show hidden files.
-> On Windows, enable **Show hidden files** in Folder Options.
+> **Note:** AppData (on Windows) is hidden by default.
+> Enable **Show hidden files** in Folder Options.
 
 ## Contributing
 
